@@ -1,0 +1,13 @@
+# 1. Configuración sensible (CRUCIAL)
+# ¡CORRECCIÓN DE RUTA!
+src/panaderiasistema/db.properties
+
+# 2. Archivos de configuración y artefactos
+/build/
+/dist/
+*.jar
+*.war
+
+# 3. Archivos y carpetas privados de NetBeans
+/nbproject/private/
+*.orig

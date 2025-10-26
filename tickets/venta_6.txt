@@ -1,0 +1,10 @@
+====== TICKET DE VENTA ======
+ID Venta: 6
+Fecha: 2025-06-28T21:02:03.372961300
+
+Producto	Cant	P.Unit	Subtotal
+
+Total: $0.00
+Forma de pago: 
+Observaciones: 
+=============================
