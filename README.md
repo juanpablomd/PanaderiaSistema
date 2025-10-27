@@ -1,6 +1,6 @@
 # 🥖 Sistema de Gestión para Panadería
 
-**Proyecto académico desarrollado en Java (Apache NetBeans)** orientado a la gestión integral de una panadería.  
+**Proyecto académico desarrollado puramente en Java (Apache NetBeans)** orientado a la gestión integral de una panadería.  
 Incluye control de productos, ventas, empleados, proveedores y categorías, con manejo de roles, auditoría, facturación en PDF y conexión a APIs externas.  
 
 ---
